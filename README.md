@@ -1,4 +1,6 @@
-# Emotion Detector
+# Final Project
+
+## Emotion Detector
 
 An AI-powered Flask web application that uses the IBM Watson NLP Emotion
 Predict API to identify anger, disgust, fear, joy, and sadness in supplied
@@ -7,7 +9,7 @@ text. The application also reports the emotion with the highest score.
 ## Project structure
 
 ```text
-EmotionDetector/
+oaqjp-final-project-emb-ai/
 ├── EmotionDetection/
 │   ├── __init__.py
 │   └── emotion_detection.py
@@ -44,8 +46,8 @@ deterministic. The production application calls the Watson NLP service.
 
 ## Submission links
 
-- [README.md](https://github.com/muhammadhamad1104/EmotionDetector/blob/main/README.md)
-- [EmotionDetection/__init__.py](https://github.com/muhammadhamad1104/EmotionDetector/blob/main/EmotionDetection/__init__.py)
-- [EmotionDetection/emotion_detection.py](https://github.com/muhammadhamad1104/EmotionDetector/blob/main/EmotionDetection/emotion_detection.py)
-- [test_emotion_detection.py](https://github.com/muhammadhamad1104/EmotionDetector/blob/main/test_emotion_detection.py)
-- [server.py](https://github.com/muhammadhamad1104/EmotionDetector/blob/main/server.py)
+- [README.md](https://github.com/muhammadhamad1104/oaqjp-final-project-emb-ai/blob/main/README.md)
+- [EmotionDetection/__init__.py](https://github.com/muhammadhamad1104/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/__init__.py)
+- [EmotionDetection/emotion_detection.py](https://github.com/muhammadhamad1104/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/emotion_detection.py)
+- [test_emotion_detection.py](https://github.com/muhammadhamad1104/oaqjp-final-project-emb-ai/blob/main/test_emotion_detection.py)
+- [server.py](https://github.com/muhammadhamad1104/oaqjp-final-project-emb-ai/blob/main/server.py)

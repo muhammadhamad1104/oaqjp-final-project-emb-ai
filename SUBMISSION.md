@@ -1,11 +1,11 @@
 # Emotion Detector submission guide
 
-Repository: <https://github.com/muhammadhamad1104/EmotionDetector>
+Repository: <https://github.com/muhammadhamad1104/oaqjp-final-project-emb-ai>
 
 ## Task 1 — repository URL
 
 Submit:
-<https://github.com/muhammadhamad1104/EmotionDetector/blob/main/README.md>
+<https://github.com/muhammadhamad1104/oaqjp-final-project-emb-ai/blob/main/README.md>
 
 ## Task 2 — Watson NLP application
 
@@ -32,7 +32,7 @@ Activity 2 terminal output:
 ## Task 4 — package validation
 
 Activity 1: submit
-<https://github.com/muhammadhamad1104/EmotionDetector/blob/main/EmotionDetection/__init__.py>
+<https://github.com/muhammadhamad1104/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/__init__.py>
 
 Activity 2 terminal output:
 
