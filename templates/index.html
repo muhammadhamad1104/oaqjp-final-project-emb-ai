@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Emotion Detector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='mywebscript.js') }}" defer></script>
+  </head>
+  <body>
+    <main class="card">
+      <div class="eyebrow">IBM Watson NLP</div>
+      <h1>Emotion Detector</h1>
+      <p class="intro">
+        Enter a sentence to discover its emotional tone and dominant emotion.
+      </p>
+      <label for="textToAnalyze">Text to analyze</label>
+      <textarea
+        id="textToAnalyze"
+        rows="5"
+        placeholder="For example: I am glad this happened"
+      ></textarea>
+      <button type="button" onclick="runEmotionAnalysis()">Analyze emotion</button>
+      <section id="system_response" class="result" aria-live="polite">
+        Your analysis will appear here.
+      </section>
+    </main>
+  </body>
+</html>
